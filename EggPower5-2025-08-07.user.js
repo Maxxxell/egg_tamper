@@ -4,7 +4,7 @@
 // @version      2025-08-07
 // @description  Efficientamento Egg Finance Affida
 // @author       Massimo Caratelli
-// @match        https://finance.blackbird71.com/a/index2.php?modulo=marketing&azione=apri&opzione=leads*
+// @match        https://finance.blackbird71.com/a/index2.php*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=blackbird71.com
 // @grant        none
 // ==/UserScript==
